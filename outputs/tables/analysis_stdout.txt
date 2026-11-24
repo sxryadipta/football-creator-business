@@ -1,0 +1,24 @@
+                 creator  videos_analysed  median_views  subscribers_primary subscriber_as_of  views_per_subscriber
+                     YjR                4        137000             252000.0       2025-05-14                 0.544
+               Drog BABA                3         78000             362000.0       2025-07-05                 0.215
+                Divyansh                3         78000             475000.0       2026-11-14                 0.164
+        Talk Football HD                2         65000             492000.0       2025-09-12                 0.132
+          Dhanraj Dhurve                2         54000             164750.0              NaN                 0.328
+         Playmaker India               10         18500                  NaN              NaN                   NaN
+Football Mania Malayalam                3          4900                  NaN              NaN                   NaN
+           Curious Harry                2          3550                  NaN              NaN                   NaN
+             segment  creators  videos  median_views  mean_views  max_views  median_views_per_subscriber
+   European football         4      12         78000      117333     262000                       0.1895
+     Indian football         3      14         18000       23343      90000                       0.3280
+Regional (Malayalam)         1       3          4900       11710      30000                          NaN
+{
+ "subscribers_verified": 6,
+ "subscribers_current_180d": 1,
+ "sponsor_listed_creators": 4,
+ "business_contact_creators": 1,
+ "views_per_sub_min": 0.132,
+ "views_per_sub_max": 0.544,
+ "divyansh_views_per_sub": 0.164,
+ "livestream_median_views": 62000,
+ "non_livestream_median_views": 32000
+}

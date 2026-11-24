@@ -1,0 +1,11 @@
+creator,n_observations,subscribers_min_observed,subscribers_max_observed,subscribers_primary,subscriber_as_of,primary_source,subscriber_date_quality,subscriber_days_old,stale_flag
+Talk Football HD,5,343000.0,609000.0,492000.0,2025-09-12,vidIQ (daily table),dated,438.0,True
+Drog BABA,4,327000.0,489000.0,362000.0,2025-07-05,vidIQ,dated,507.0,True
+Divyansh,3,280000.0,475000.0,475000.0,2026-11-14,NexLev,dated,10.0,False
+YjR,2,252000.0,388000.0,252000.0,2025-05-14,vidIQ,dated,559.0,True
+Playmaker India,0,,,,,Not verified,not verified,,False
+Dhanraj Dhurve,2,128000.0,164750.0,164750.0,,SocialCounts (live counter),undated live counter,,False
+Curious Harry,0,,,,,Not verified,not verified,,False
+Football Mania Malayalam,0,,,,,Not verified,not verified,,False
+Markaroni,3,250000.0,450000.0,429000.0,2025-02-11,vidIQ,dated,651.0,True
+Sharma Football,0,,,,,Not verified,not verified,,False

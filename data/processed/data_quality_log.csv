@@ -1,0 +1,21 @@
+issue,scope,handling
+Subscriber counts verified (dated or live counter),6 of 10 creators,Used for views-per-subscriber; missing creators excluded from that metric
+Subscriber counts older than 180 days at snapshot,4 creators,Shown with as-of date; ratios for these are indicative only
+Subscriber counts undated (live counter),1 creator,Used only because no dated tracker value was found; flagged
+Subscriber source disagreement,"Talk Football HD, Markaroni, Drog BABA, Divyansh, YjR, Dhanraj Dhurve",Primary = latest dated tracker value; full range kept in subscriber_observations_clean.csv
+Subscriber counts not found,"Playmaker India, Football Mania Malayalam, Curious Harry, Sharma Football",Left as not verified; no value estimated
+Like counts missing,27 of 32 rows,Watch pages could not be fetched (rate limit / consent page); left N/A
+Comment counts missing,31 of 32 rows,As above; not analysed
+Publication date missing,3 rows,Excluded from date/recency metrics only; not filled
+View count missing,2 rows,Excluded from view metrics; not filled
+Duplicate view count on consecutive rows (possible copy error),1 row(s),Excluded from analysis set; flagged
+"Non-video or unverifiable URL pattern (/about page, don123xxxx)",3 rows,Kept in analysis; flagged for manual verification
+Relative-age text anchored to different dates,25 rows,Relative ages ignored; absolute dates used only
+Creators with no video-level data,"Markaroni, Sharma Football",Profile only; excluded from performance metrics
+Playmaker India videos all point to one channel page,10 rows,Individual video URLs cannot be verified
+Sponsor correction: Talk Football HD,1 creator,Original research named Deadbeat top sponsor (48 videos); SponsorRadar lists Vezer and Deadbeat at 93 each
+Sponsor correction: Divyansh and YjR,2 creators,Original research recorded no sponsor evidence; SponsorRadar lists 9 brands for each
+Sponsor not re-verified: Markaroni (FanCode),1 creator,Carried over from original research; not checked this session
+Modash list entries inconsistent with other sources,"Markaroni, Drog BABA, Dhanraj Dhurve",Excluded from primary; kept as low-confidence observations
+Segment labels analyst-assigned from titles,10 creators,Documented assumption; not a verified attribute
+Non-random sample from search snippets,Whole dataset,Results describe this snapshot only

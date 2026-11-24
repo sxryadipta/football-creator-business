@@ -1,0 +1,57 @@
+{
+  "research_rows": 32,
+  "creators": 10,
+  "analysis_rows": 29,
+  "titled_rows": 30,
+  "subscribers_verified": 6,
+  "subscribers_current_180d": 1,
+  "subscribers_stale_180d": 4,
+  "like_rows": 5,
+  "comment_rows": 1,
+  "dated_rows": 29,
+  "overall_median_views": 34000,
+  "overall_mean_views": 61032,
+  "top_video": {
+    "creator": "YjR",
+    "title": "PEDRI MASTERCLASS VS ATLETICO & MAN UNITED DIWALI SPECIAL!!",
+    "views": 262000
+  },
+  "segments": {
+    "European football": {
+      "creators": 4,
+      "videos": 12,
+      "median_views": 78000,
+      "mean_views": 117333,
+      "max_views": 262000,
+      "median_views_per_subscriber": 0.1895
+    },
+    "Indian football": {
+      "creators": 3,
+      "videos": 14,
+      "median_views": 18000,
+      "mean_views": 23343,
+      "max_views": 90000,
+      "median_views_per_subscriber": 0.328
+    },
+    "Regional (Malayalam)": {
+      "creators": 1,
+      "videos": 3,
+      "median_views": 4900,
+      "mean_views": 11710,
+      "max_views": 30000,
+      "median_views_per_subscriber": NaN
+    }
+  },
+  "livestream_median_views": 62000,
+  "non_livestream_median_views": 32000,
+  "n_livestream": 5,
+  "n_non_livestream": 24,
+  "sponsor_listed_creators": 4,
+  "sponsor_none_detected": 1,
+  "business_contact_creators": 1,
+  "mean_completeness_pct": 62.6,
+  "views_per_sub_creators": 5,
+  "views_per_sub_min": 0.132,
+  "views_per_sub_max": 0.544,
+  "divyansh_views_per_sub": 0.164
+}
